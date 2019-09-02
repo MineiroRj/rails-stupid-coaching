@@ -1,0 +1,33 @@
+h1 {
+  color: black;
+  font-family: verdana;
+  font-weight: lighter;
+}
+
+p {
+  color: black;
+  font-family: verdana;
+  font-weight: lighter;
+}
+
+.btn {
+  width: 50px;
+  font-weight: bold;
+  color: white;
+  background-color: #1c88fb;
+  border-radius: 5px;
+}
+
+.form {
+  border: solid, 2px;
+  border-radius: 2px;
+}
+
+.div {
+  margin: 0px;
+  border: solid, 1px;
+  padding: 0px;
+}
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/

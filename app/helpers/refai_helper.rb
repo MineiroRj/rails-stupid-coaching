@@ -1,0 +1,2 @@
+module RefaiHelper
+end
